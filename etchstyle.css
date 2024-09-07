@@ -1,0 +1,12 @@
+.choice{
+    padding: 8px 16px;
+    margin: 20px 0px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: red;
+    border-color: pink;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
