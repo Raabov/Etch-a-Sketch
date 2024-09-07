@@ -4,7 +4,7 @@ container.style.flexWrap = 'wrap';
 container.style.width = '1600px';
 container.style.heigh = '1600px';
 
-for (let i = 0 ; i < 16; i++) {
+for (let i = 0 ; i < 256; i++) {
     let node = document.createElement("div");
     
     node.style.backgroundColor = 'pink';
