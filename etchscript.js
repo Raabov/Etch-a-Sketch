@@ -22,8 +22,8 @@ for (let i = 0 ; i < 256; i++) {
         this.style.backgroundColor = 'blue';
     });
 
-    node.addEventListener('mouseout', function(){
-        this.style.backgroundColor = 'lightblue';
+    node.addEventListener('mouseout', function() {
+        this.style.backgroundColor = 'lightblue'
     });
 
     container.appendChild(node);
